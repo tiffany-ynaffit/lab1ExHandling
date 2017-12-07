@@ -7,7 +7,7 @@ package exceptionhandling;
 
 /**
  *
- * @author ken
+ * @author tiffany
  */
 public class InvalidAgeException extends Exception {
     
